@@ -1,0 +1,7 @@
+setup.py
+dad_joke.egg-info/PKG-INFO
+dad_joke.egg-info/SOURCES.txt
+dad_joke.egg-info/dependency_links.txt
+dad_joke.egg-info/entry_points.txt
+dad_joke.egg-info/requires.txt
+dad_joke.egg-info/top_level.txt

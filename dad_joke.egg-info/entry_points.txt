@@ -1,2 +1,0 @@
-[console_scripts]
-dad-joke = dad_joke:main

@@ -1,7 +1,0 @@
-setup.py
-dad_joke_cli.egg-info/PKG-INFO
-dad_joke_cli.egg-info/SOURCES.txt
-dad_joke_cli.egg-info/dependency_links.txt
-dad_joke_cli.egg-info/entry_points.txt
-dad_joke_cli.egg-info/requires.txt
-dad_joke_cli.egg-info/top_level.txt
